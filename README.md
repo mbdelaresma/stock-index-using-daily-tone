@@ -1,6 +1,6 @@
 # Predicting Stock Index Using GDELT v2 Events Daily Average Tone
 
-Machine Learning Course Submission
+Big Data and Cloud Computing Course Submission
 
 See full report [HERE](https://github.com/mbdelaresma/stock-index-using-daily-tone/blob/main/FinalReport.ipynb)
 
